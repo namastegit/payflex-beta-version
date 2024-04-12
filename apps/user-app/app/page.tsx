@@ -29,6 +29,8 @@ export default async function Page() {
 
 
 
+
+
 // Here, you're passing three props to the Appbar:
 
 // onSignin: The signIn function from next-auth, which is a method to trigger the sign-in flow.
