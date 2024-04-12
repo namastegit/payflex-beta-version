@@ -25,7 +25,9 @@ export default async function Page() {
   } else {
     redirect('/api/auth/signin')
   }
-}
+}   
+
+
 
 // Here, you're passing three props to the Appbar:
 
