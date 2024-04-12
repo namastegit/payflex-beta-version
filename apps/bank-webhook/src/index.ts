@@ -82,9 +82,7 @@ app.post("/hdfcWebhook", async (req, res) => {
     }
 });
 
-app.listen(3003, () => {
-    console.log("Server running on port 3003");
-});
+app.listen(3003);
 
 
 
